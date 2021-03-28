@@ -1,6 +1,6 @@
 Morphose
 ==================
-Fully Decentralized Protocol for Private Transactions
+Fully Decentralized Protocol for Private Transactions on Binance Smart Chain
 
 ## What is Morphose
 Morphose breaks the on-chain link between source and destination addresses to enable transactional privacy in Binance Smart Chain. Her smart contracts use non-interactive zero-knowledge proofs, also known as zk-SNARK that require no interaction between the prover and verifier. Once a BNB deposit is withdrawn by the new address, there is absolutely no way to link the withdrawal to the deposit, ensuring complete privacy.
@@ -10,10 +10,8 @@ Morphose breaks the on-chain link between source and destination addresses to en
 - Wait: Even though it's not necessary, it is better to wait some amount of time for other people to deposit to improve privacy.
 - Withdraw: User connects to Morphose app with a new wallet, submits the Note and the contract transfers the funds to desired address by getting 1% commission.
 
-
 ## Access to UI
-- [Web2 - https://morphose.cash](https://morphose.cash)
-- [IPFS - morphose.eth.link](morphose.eth.link)
+https://morphose.cash / morphose.eth.link
 
 ## Audit
 Morphose is audited by Etherscan [approved](https://etherscan.io/directory/Smart_Contracts/Smart_Contracts_Audit_And_Security?q=&p=2) professional audit company [SMCAuditors](https://smcauditors.com).

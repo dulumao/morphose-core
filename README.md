@@ -25,4 +25,4 @@ https://github.com/morphosecash/morphose-core/blob/main/audit.pdf
 - Morphose 10 BNB Denomination: 0x15d8c1c08e20a911c37C2B3D6dD3de20Cf80eC21 (no owner or admin)
 - Morphose 100 BNB Denomination: 0x634cCA5d5593f029067A63E448beAbBE105B1aC7 (no owner or admin)
 - Morphose 1000 BNB Denomination: 0x98Fe8cb971F1e12237461Bc20F3CB5BE90E3953d (no owner or admin)
-- Morphose Token: 0x96afB474b4Ad9068353ea9202686151BCEd022d9 (all maximum supply of 100K tokens minted and locked)
+- Morphose Token: 0x96afB474b4Ad9068353ea9202686151BCEd022d9 (All maximum supply of 100K tokens minted and locked)
